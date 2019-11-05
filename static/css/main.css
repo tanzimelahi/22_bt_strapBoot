@@ -109,7 +109,7 @@ body {
 }
 
 #footer {
-  background: #333333;
+  background: linear-gradient(to right, rgb(108, 168, 247), rgb(245, 223, 100));
 }
 
 ul.social-network {
