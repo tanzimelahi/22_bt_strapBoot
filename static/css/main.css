@@ -141,7 +141,7 @@ ul.social-network li {
 .social-network a.icoLinkedin:hover {
   background-color: #007bb7;
 }
-.social-network a.icoRss:hover i,
+.social-network a.icoRss:hover i 
 .social-network a.icoFacebook:hover i,
 .social-network a.icoTwitter:hover i,
 .social-network a.icoGoogle:hover i,
@@ -165,8 +165,28 @@ a.socialIcon:hover,
   width: 50px;
   height: 50px;
   font-size: 20px;
-  background-color: #d3d3d3;
 }
+
+.social-circle li a.icoRss {
+  background-color: #f56505;
+}
+
+.social-circle li a.icoFacebook {
+  background-color: #3b5998;
+}
+
+.social-circle li a.icoTwitter {
+  background-color: #33ccff;
+}
+
+.social-circle li a.icoGoogle {
+  background-color: #bd3518;
+}
+
+.social-circle li a.icoLinkedin {
+  background-color: #007bb7;
+}
+
 .social-circle li i {
   margin: 0;
   line-height: 50px;
