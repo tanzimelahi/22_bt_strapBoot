@@ -104,7 +104,7 @@ body {
   color: black;
 }
 
-#contact {
+#button, #progress-bar, #table, #contact, #info  {
   background: linear-gradient(to right, rgb(108, 168, 247), rgb(245, 223, 100));
 }
 
